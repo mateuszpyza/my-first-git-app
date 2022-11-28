@@ -1,1 +1,4 @@
-# my-first-git-app
+first change
+second change
+third change
+My first GIT repository practised 
